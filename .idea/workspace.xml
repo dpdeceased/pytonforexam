@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9ed2856-b33c-413e-b1fc-74561b467bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_09_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27а.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_09_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_09_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_09_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file1__t5eb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file2__t5ed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file3__t5ef.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file4__t5eg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_09_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_09_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_09_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_09_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_09_07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +47,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Python.29_09_05">
-    <configuration name="20_09_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.27_09_03">
+    <configuration name="27_09_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -65,7 +60,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_09_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_09_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27а" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27_09_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -86,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27а.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_09_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="29_09_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27_09_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -107,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_09_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_09_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="29_09_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="29_09_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -128,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_09_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_09_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="29_09_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="29_09_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -149,7 +144,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_09_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_09_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.29_09_05" />
-        <item itemvalue="Python.29_09_04" />
-        <item itemvalue="Python.29_09_01" />
-        <item itemvalue="Python.20_09_02" />
-        <item itemvalue="Python.27а" />
+        <item itemvalue="Python.27_09_03" />
+        <item itemvalue="Python.27_09_02" />
+        <item itemvalue="Python.27_09_01" />
+        <item itemvalue="Python.29_09_07" />
+        <item itemvalue="Python.29_09_06" />
       </list>
     </recent_temporary>
   </component>

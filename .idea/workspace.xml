@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9ed2856-b33c-413e-b1fc-74561b467bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_10_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_10_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_10_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_10_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_18688.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_25101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_25560.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_26203.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_30449.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_10_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_10_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_10_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_10_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +54,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Python.09_10_03">
-    <configuration name="03_10_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16_30449">
+    <configuration name="16_25101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -59,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_10_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_25101.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_10_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_25560" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -80,7 +88,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_10_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_25560.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_10_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_26203" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -101,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_10_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_26203.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_10_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_30449" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -122,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_10_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_30449.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,19 +139,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27_09_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_10_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Petropavlov03\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_09_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_10_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_10_03" />
-        <item itemvalue="Python.09_10_02" />
-        <item itemvalue="Python.09_10_01" />
-        <item itemvalue="Python.03_10_01" />
-        <item itemvalue="Python.27_09_03" />
+        <item itemvalue="Python.16_30449" />
+        <item itemvalue="Python.16_25560" />
+        <item itemvalue="Python.16_26203" />
+        <item itemvalue="Python.17_10_02" />
+        <item itemvalue="Python.16_25101" />
       </list>
     </recent_temporary>
   </component>
